@@ -18,7 +18,7 @@ const Weather = () => {
 
   return (
     <div>
-      <h1>React Weather Search App</h1>
+      <h1>Weather App</h1>
       <input
         type="text"
         placeholder="Enter a city..."
