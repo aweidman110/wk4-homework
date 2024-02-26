@@ -19,13 +19,17 @@ const App = () => {
         is open-sourced on{" "}
         <a
           rel="noreferrer"
-          href="/"
+          href="https://github.com/aweidman110/wk4-homework"
           target="_blank"
         >
           GitHub,
         </a>{" "}
         and is hosted on{" "}
-        <a rel="noreferrer" href="/" target="_blank">
+        <a
+          rel="noreferrer"
+          href="https://react-wk4-homework.netlify.app/"
+          target="_blank"
+        >
           {" "}
           Netlify.
         </a>
